@@ -73,7 +73,6 @@
             >;
 
             label = "Navi";
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
         };
 
         Symbol {
