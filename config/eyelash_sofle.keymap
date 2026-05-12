@@ -65,11 +65,11 @@
 
         L1 {
             bindings = <
-&kp F11  &kp F1                &kp F2                &kp F3             &kp F4           &kp F5    &trans  &kp F6          &kp F7     &kp F8                &kp F9                 &kp F10  &kp F12
-&trans   &trans                &trans                &trans             &trans           &trans    &trans  &kp DOWN_ARROW  &kp RIGHT  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans   &trans
-&trans   &kp ESCAPE            &kp C_PREV            &kp C_PAUSE        &kp C_NEXT       &trans    &trans  &kp LEFT_ARROW  &trans     &kp MINUS             &kp EQUAL              &trans   &trans
-&trans   &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans    &trans  &kp UP_ARROW    &trans     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans   &trans
-&trans   &trans                &trans                &trans             &trans           &trans    &trans  &trans          &trans     &trans                &trans                 &trans
+&kp F11  &kp F1                &kp F2                &kp F3             &kp F4           &kp F5     &trans  &kp F6          &kp F7     &kp F8                &kp F9                 &kp F10  &kp F12
+&trans   &trans                &trans                &trans             &trans           &trans     &trans  &kp DOWN_ARROW  &kp RIGHT  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans   &trans
+&trans   &kp ESCAPE            &kp C_PREV            &kp C_PAUSE        &kp C_NEXT       &trans     &trans  &kp LEFT_ARROW  &trans     &kp MINUS             &kp EQUAL              &trans   &trans
+&trans   &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans     &trans  &kp UP_ARROW    &trans     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans   &trans
+&trans   &trans                &trans                &trans             &trans           &kp F13    &trans  &kp F13         &trans     &trans                &trans                 &trans
             >;
 
             label = "Navi";
