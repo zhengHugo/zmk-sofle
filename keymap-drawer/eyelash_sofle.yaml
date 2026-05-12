@@ -64,7 +64,7 @@ layers:
   - Navi
   - RIGHT GUI
   - $$mdi:apple-keyboard-option$$
-  - Device
+  - $$mdi:apple-keyboard-caps$$
   Navi:
   - F11
   - F1
@@ -194,7 +194,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held alternate}
+  - {t: '$$mdi:transfer$$', type: trans}
 combos:
 - p: [14, 28, 40]
   k: '&soft_off'
