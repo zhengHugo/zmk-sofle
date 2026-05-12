@@ -57,10 +57,9 @@
 &kp TAB           &kp Q   &kp W     &kp F         &kp P   &kp G        &kp DOWN_ARROW   &kp J      &kp L   &kp U          &kp Y       &kp SEMICOLON  &kp PIPE
 &kp LEFT_CONTROL  &kp A   &kp R     &kp S         &kp T   &kp D        &kp LEFT_ARROW   &kp H      &kp N   &kp E          &kp I       &kp O          &kp SINGLE_QUOTE
 &kp LSHFT         &kp Z   &kp X     &kp C         &kp V   &kp B        &kp RIGHT_ARROW  &kp K      &kp M   &kp COMMA      &kp PERIOD  &kp SLASH      &kp RIGHT_SHIFT
-&trans            &mo 2   &kp LALT  &kp LEFT_WIN  &mo 1   &kp SPACE    &to 0            &kp ENTER  &mo 1   &kp RIGHT_GUI  &kp RALT    &mo 2
+&trans            &mo 2   &kp LALT  &kp LEFT_WIN  &mo 1   &kp SPACE    &to 0            &kp ENTER  &mo 1   &kp RIGHT_GUI  &kp RALT    &kp CAPS
             >;
 
-            sensor-bindings = <&scroll_encoder>;
             display-name = "Qwery";
         };
 
